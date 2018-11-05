@@ -1,4 +1,4 @@
-Ansible SBT ![Travis CI status](https://travis-ci.org/deiga/ansible-sbt.svg)
+Ansible SBT [![Build Status](https://travis-ci.org/deiga/ansible-sbt.svg?branch=master)](https://travis-ci.org/deiga/ansible-sbt)
 =========
 
 This role installs SBT
